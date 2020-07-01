@@ -11,3 +11,10 @@ By limiting the group size, we are able to use the 3/5 vote out method. Where me
 - Develop a Social Media application
 - Implement the Social Media application onto a **server** with live sessions
 - Developed more understanding of using **mySQL** to develop a database for the application
+- Worked using the Agile Method (Worked in Sprints)
+- Used Story Cards to help with application functions
+
+**Skills**
+- HTML, CSS, Javascript
+- Node.js & EJS
+- mySQL
