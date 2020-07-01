@@ -16,5 +16,6 @@ By limiting the group size, we are able to use the 3/5 vote out method. Where me
 
 **Skills**
 - HTML, CSS, Javascript
+- Bootstrap
 - Node.js & EJS
 - mySQL
