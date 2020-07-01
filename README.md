@@ -19,3 +19,4 @@ By limiting the group size, we are able to use the 3/5 vote out method. Where me
 - Bootstrap
 - Node.js & EJS
 - mySQL
+- Heroku
